@@ -1,0 +1,16 @@
+{
+  "name": "FastFeet",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "repository": "https://github.com/vsalbuq/FastFeet.git",
+  "author": "Vinícius Albuquerque <vinicius.albuquerque@outlook.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "nohoist": [
+    "**/react-native",
+    "**/react-native/**"
+  ]
+}
