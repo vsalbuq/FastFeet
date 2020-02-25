@@ -13,10 +13,13 @@
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vsalbuq/FastFeet?color=%2304D361">
 
-<a href="https://www.codacy.com/manual/vsalbuq/FastFeet?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vsalbuq/FastFeet&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/eda3b70e0a4a4ba0bffb7757f37b2987"/></a>
+<a href="https://www.codacy.com/manual/vsalbuq/FastFeet?utm_source=github.com&utm_medium=referral&utm_content=vsalbuq/FastFeet&utm_campaign=Badge_Grade">
+  <img src="https://api.codacy.com/project/badge/Grade/eda3b70e0a4a4ba0bffb7757f37b2987">
+  </a>
 
-  <a href="https://github.com/vsalbuq/FastFeet">
-    <img alt="Made by Vinícius Albuquerque" src="https://img.shields.io/badge/made%20by-vsalbuq-%23304D361">
+ <img alt="Repository size" src="https://img.shields.io/github/repo-size/vsalbuq/FastFeet?color=%2304D361">
+  <a href="https://github.com/vsalbuq/FastFeet/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vsalbuq/FastFeet?color=%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
@@ -31,6 +34,10 @@
   <a href="#-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
+
+## :camera_flash: Screenshots
+
+Coming soon...
 
 ## :rocket: Tech
 
