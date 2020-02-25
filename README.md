@@ -41,7 +41,7 @@ Coming soon...
 
 ## :rocket: Tech
 
-This project was developed at [RocketSeat's GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+This project was developed at [RocketSeat's GoStack Bootcamp](https://rocketseat.com.br/bootcamp), and was the conclusion project that would be assessed for its certification. The following technologies were used:
 
 ### Code Editor
 
@@ -142,3 +142,4 @@ Made with ♥ by Vinicius Albuquerque :wave: [Get in touch!](https://www.linkedi
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[prettier]: https://prettier.io/
