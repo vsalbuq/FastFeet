@@ -3,10 +3,10 @@
 </h1>
 
 <h2 align="center">
-    <img alt="GoStack" src=".github/gostack-logo.png" width="200px" />
+    <img alt="GoStack" src=".github/gostack-logo.png" width="150px" />
 </h2>
 
-<p align="center"><i>FastFeet is a complete application (Server, Web and Mobile) for a fictitious shipping company.</i></p>
+<h4 align="center"><i>FastFeet is a complete application (Server, Web and Mobile) for a fictitious courier services' company.</i></h4>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vsalbuq/FastFeet?color=%2304D361">
